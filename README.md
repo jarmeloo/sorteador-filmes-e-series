@@ -6,7 +6,7 @@ Um aplicativo web que **sorteia filmes e séries exclusivamente do Disney+**, id
 
 ## ✨ Visão Geral
 
-O **Disney+ Random Picker** permite ao usuário escolher **temasou categorias** disponíveis no Disney+ e deixar que a sorte decida o que assistir. O aplicativo retorna uma recomendação aleatória baseada na seleção feita.
+O **Disney+ Random Picker** permite ao usuário escolher **temas ou categorias** disponíveis no Disney+ e deixar que a sorte decida o que assistir. O aplicativo retorna uma recomendação aleatória com base na seleção feita.
 
 Todo o conteúdo sorteado é **exclusivo do serviço Disney+**.
 
@@ -15,6 +15,7 @@ Todo o conteúdo sorteado é **exclusivo do serviço Disney+**.
 ## 🎯 Funcionalidades
 
 * 🎲 Sorteio aleatório de **filmes e séries**
+* 🧠 Interface simples e intuitiva
 * 📚 Filtro por **categorias e coleções do Disney+**, como:
 
   * Animações clássica disney
@@ -29,8 +30,6 @@ Todo o conteúdo sorteado é **exclusivo do serviço Disney+**.
   * Documentários 
   * Produções originais Disney+
     
-* 🧠 Interface simples e intuitiva
-
 ---
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
@@ -51,6 +50,7 @@ Este projeto foi criado com os seguintes objetivos:
 * 📖 Estudo e prática de **Python**
 * 🧩 Desenvolvimento de lógica de programação
 * 🌐 Aprendizado na criação de aplicações web simples
+* Este projeto foi desenvolvido com foco em **estudo, prática de programação e desenvolvimento pessoal**, explorando lógica, organização de dados e construção de interfaces simples para a web com o Streamlit.
 
 ---
 
@@ -72,5 +72,3 @@ Este projeto foi criado com os seguintes objetivos:
 * Não possui fins comerciais e não é afiliado oficialmente ao Disney+.
 
 ---
-## 📖 Objetivo
-Este projeto foi desenvolvido com foco em **estudo, prática de programação e desenvolvimento pessoal**, explorando lógica, organização de dados e construção de interfaces simples para a web utilizando Streamlit.
