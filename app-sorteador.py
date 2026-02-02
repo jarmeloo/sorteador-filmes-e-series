@@ -6,7 +6,7 @@ from biblioteca import catalogo, gerar_link
 # Configuração da página
 # -------------------------------
 st.set_page_config(
-    page_title="Sorteador Disney+",
+    page_title="Disney+ Random Picker",
     page_icon="🎬",
     layout="centered"
 )
@@ -87,3 +87,4 @@ if st.session_state.recomendados:
             else:
 
                 st.caption("Link indisponível")
+
