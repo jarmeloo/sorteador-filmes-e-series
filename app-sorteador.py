@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🎬 Sorteador de Filmes e Séries – Disney+")
+st.title("🎬 Disney+ Random Picker")
 st.write("Indeciso sobre o que assistir? Deixa a sorte escolher por você! 👇")
 
 # -------------------------------
@@ -85,4 +85,5 @@ if st.session_state.recomendados:
                 # O link_button resolve o problema de abrir no navegador do usuário
                 st.link_button("▶ Assistir", link)
             else:
+
                 st.caption("Link indisponível")
