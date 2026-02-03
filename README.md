@@ -58,9 +58,9 @@ Este projeto foi criado com os seguintes objetivos:
 
 1. Acesse no navegador:
 
-   ```
+
    https://sorteador-filmes-e-series-disney.streamlit.app/
-   ```
+   
 
 ---
 
