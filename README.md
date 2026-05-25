@@ -5,8 +5,6 @@
 </div>
 
 
-# 🎬 Disney+ Random Picker (Sorteador de Filmes e Séries Disney+)
-
 Um aplicativo web que **sorteia filmes e séries exclusivamente do Disney+**, ideal para aqueles momentos em que você abre o streaming, rola o catálogo inteiro e ainda assim não consegue decidir o que assistir.
 
 ---
