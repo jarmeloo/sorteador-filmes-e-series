@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:1a3a8f&height=200&section=header&text=Disney+%20Random%20Picker&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:1a3a8f&height=200&section=header&text=DisneyPlus%20Random%20Picker&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
 
 </div>
 
