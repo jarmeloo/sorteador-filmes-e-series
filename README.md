@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:1a3a8f&height=200&section=header&text=Disney+%20Random%20Picker&fontSize=40&fontColor=ffffff&fontAlignY=38&descAlignY=58&descColor=a8d5a2" />
+
+</div>
+
+
 # 🎬 Disney+ Random Picker (Sorteador de Filmes e Séries Disney+)
 
 Um aplicativo web que **sorteia filmes e séries exclusivamente do Disney+**, ideal para aqueles momentos em que você abre o streaming, rola o catálogo inteiro e ainda assim não consegue decidir o que assistir.
