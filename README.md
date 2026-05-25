@@ -4,12 +4,18 @@
 
 </div>
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
+
 
 Um aplicativo web que **sorteia filmes e séries exclusivamente do Disney+**, ideal para aqueles momentos em que você abre o streaming, rola o catálogo inteiro e ainda assim não consegue decidir o que assistir.
 
 ---
 
-## ✨ Visão Geral
+## ✨ Sobre o Projeto
 
 O **Disney+ Random Picker** permite ao usuário escolher **temas ou categorias** disponíveis no Disney+ e deixar que a sorte decida o que assistir. O aplicativo retorna uma recomendação aleatória com base na seleção feita.
 
