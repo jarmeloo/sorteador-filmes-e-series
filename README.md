@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <a href="#como-acessar-o-projeto">Visualizar Projeto</a>
+</p>
+  
+---
+
 ## ✨ Sobre o Projeto
 
 Um aplicativo web que **sorteia filmes e séries exclusivamente do Disney+**, ideal para aqueles momentos em que você passa minutos rolando o catálogo e ainda não consegue decidir o que assistir.
@@ -66,12 +72,20 @@ Este projeto foi criado com os seguintes objetivos:
 
 ---
 
-## 🚀 Como Executar o Projeto
+<h2 id="como-executar-o-projeto">🚀 Como Executar o Projeto</h2>
 
-1. Acesse no navegador:
+ 1. Acesse o deploy do projeto pelo link:  
+ [Ver Projeto](https://sorteador-filmes-e-series-disney.streamlit.app/)
 
+2. Ao abrir a página, o Streamlit pode estar em modo de espera.  
+   Nesse caso, aparecerá um botão escrito:
 
-   https://sorteador-filmes-e-series-disney.streamlit.app/
+```bash
+Yes, get this app back up!
+```
+3. Clique nesse botão para iniciar o aplicativo.  
+4. Aguarde alguns segundos enquanto o Streamlit carrega o projeto.  
+5. Pronto! Agora você já pode utilizar a aplicação normalmente 🚀  
    
 
 ---
